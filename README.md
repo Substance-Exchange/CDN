@@ -1,3 +1,3 @@
-## ⚠️警告⚠️
+## ⚠️WARNING⚠️
 
-> 不要轻易删除Releases版本，因为有很多地方在用老版本。
+> Do not easily delete the Releases version.
