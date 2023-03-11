@@ -25,7 +25,7 @@
 @font-face {
   font-family: 'Sofia_Pro';
   src: url('https://cdn.jsdelivr.net/gh/Substance-Exchange/CDN@0.0.2/fonts/Sofia_Pro.ttf') format('truetype');
-  font-weight: 700;
+  font-weight: normal;
   font-style: normal;
   font-display: block;
 }
